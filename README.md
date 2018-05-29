@@ -1,6 +1,7 @@
 # node-chat
 ### Node.js 기반의 실시간 그룹채팅 강좌
 - 진행자: 이근혁(lghlove0509@naver.com)
+- [블로그 본문 보기](http://codevkr.tistory.com/58)
 
 # Chapter 1 - 준비
 
