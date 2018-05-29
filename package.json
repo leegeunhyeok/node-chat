@@ -1,0 +1,23 @@
+{
+  "name": "node_chat",
+  "version": "1.0.0",
+  "description": "Node.js 실시간 채팅",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegeunhyeok/node-chat.git"
+  },
+  "author": "Leegeunhyeok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leegeunhyeok/node-chat/issues"
+  },
+  "homepage": "https://github.com/leegeunhyeok/node-chat#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
